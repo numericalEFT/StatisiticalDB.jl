@@ -6,7 +6,7 @@ DocMeta.setdocmeta!(StatsDataBase, :DocTestSetup, :(using StatsDataBase); recurs
 makedocs(;
     modules=[StatsDataBase],
     authors="Kun Chen, Daniel Cerkoney",
-    repo="https://github.com/numericalEFT/StatsDataBase.jl/blob/{commit}{path}#{line}",
+    repo="https://github.com/numericaleft/StatsDataBase.jl/blob/{commit}{path}#{line}",
     sitename="StatsDataBase.jl",
     format=Documenter.HTML(;
         prettyurls=get(ENV, "CI", "false") == "true",
