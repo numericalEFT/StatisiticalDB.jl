@@ -1,14 +1,14 @@
 ```@meta
-CurrentModule = StatsDataBase
+CurrentModule = StatisticalDB
 ```
 
-# StatsDataBase
+# StatisticalDB
 
-Documentation for [StatsDataBase](https://github.com/numericaleft/StatsDataBase.jl).
+Documentation for [StatisticalDB](https://github.com/numericaleft/StatisticalDB.jl).
 
 ```@index
 ```
 
 ```@autodocs
-Modules = [StatsDataBase]
+Modules = [StatisticalDB]
 ```

@@ -1,6 +1,6 @@
-using StatsDataBase
+using StatisticalDB
 using Test
 
-@testset "StatsDataBase.jl" begin
+@testset "StatisticalDB.jl" begin
     # Write your tests here.
 end

@@ -1,4 +1,4 @@
-module StatsDataBase
+module StatisticalDB
 
 # Write your package code here.
 
